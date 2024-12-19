@@ -194,7 +194,7 @@ We appreciate your feedback! If you have any suggestions or find any issues, ple
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/jainil2205/Library-Management-System-master
+   git clone https://github.com/jainil2205/Library-Management-System-master.git
 
 2. **Open the Project in IntelliJ IDEA:**
   Open the cloned project in IntelliJ IDEA.
